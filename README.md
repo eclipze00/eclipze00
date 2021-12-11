@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Guilherme Rodrigues.
 
-- 🌱 Estudando Java, JavaScript
+- 🌱 Estudante de Desenvolvimento Java Full Stack | JavaScript | HTML | CSS
 
 - 😄 Pronouns: Ele/Dele
 
